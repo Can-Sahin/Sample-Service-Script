@@ -1,6 +1,6 @@
 
-## Sample Service Script for Amazon Linux AMI
-Sample System V init script (service script) for startup services on [Amazon Linux AMI].  Alternative to ' linux daemons' which AWS Linux AMI does not support.
+## Sample Service Script for RPM based linux distros, especially wriiten for Amazon Linux AMI
+Sample System V init script (service script) for startup services that is written for [Amazon Linux AMI] (and therefore for rpm-based linux). Alternative to 'linux daemons' which AWS Linux AMI does not support.
 
 Original script is taken from [wyhasany's script]
 

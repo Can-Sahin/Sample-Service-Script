@@ -18,7 +18,7 @@ Download the script ExampleService.sh
 Some example values and implementation is provided in the script. For now, on run it writes Environment Values to the log file
 
 
-Edit the script by replacing the fields in between the `<Edit Following Fields>` tag with your of values:
+Edit the script by replacing the fields in between the `<Edit Following Fields>` tag with your own values:
 * Modify the LSB header. Change `ExampleService` with your name and change default configuration if you wish
 * `SERVICE_NAME` = Your service's name
 * `SCRIPT` = Your script to run on service start
